@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Instrument
+comment1.params=instrumentName
+comment1.target=Instrument(java.lang.String)
+comment10.params=CustomerMobileNumber
+comment10.target=void\ setCustomerMobileNumber(java.lang.String)
+comment11.params=PANNo
+comment11.target=void\ setPANNo(int)
+comment12.params=
+comment12.target=void\ display1()
+comment2.params=
+comment2.target=int\ getInstrumentID()
+comment3.params=
+comment3.target=java.lang.String\ getInstrumentName()
+comment4.params=
+comment4.target=java.lang.String\ getcustomerName()
+comment5.params=
+comment5.target=java.lang.String\ getcustomerMobileNumber()
+comment6.params=
+comment6.target=int\ getC_PANNo()
+comment7.params=instrumentID
+comment7.target=void\ setinstrumentID(int)
+comment8.params=instrumentName
+comment8.target=void\ setinstrumentName(java.lang.String)
+comment9.params=CustomerName
+comment9.target=void\ setCustomerName(java.lang.String)
+numComments=13
